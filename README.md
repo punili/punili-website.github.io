@@ -59,7 +59,7 @@ Use the `printf()` function.
 
 ![Alt text][id]
 
-  [id]: https://www.amcharts.com/wp-content/uploads/2013/12/demo_7392_light.jpg  "Optional title attribute"
+  [id]: http://www.excel-easy.com/data-analysis/images/charts/line-chart.png  "Optional title attribute"
 
 <http://example.com/>
 
