@@ -58,7 +58,7 @@ Use the `printf()` function.
 ![替代文字](https://www.amcharts.com/wp-content/uploads/2013/12/demo_7392_light.jpg "Optional title")
 
 ![Alt text][id]
-[id]: https://www.amcharts.com/wp-content/uploads/2013/12/demo_7392_light.jpg  "Optional title attribute"
+  [id]: https://www.amcharts.com/wp-content/uploads/2013/12/demo_7392_light.jpg  "Optional title attribute"
 
 <http://example.com/>
 
