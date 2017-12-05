@@ -34,3 +34,10 @@ Suspendisse id sem consectetuer libero luctus adipiscing.
     
 This is [an example](http://example.com/ "Title") inline link.
 [This link](http://example.net/) has no title attribute.
+
+I get 10 times more traffic from [Google][] than from
+[Yahoo][] or [MSN][].
+
+  [google]: http://google.com/        "Google"
+  [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
+  [msn]:    http://search.msn.com/    "MSN Search"
