@@ -23,3 +23,8 @@ Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
 viverra nec, fringilla in, laoreet vitae, risus.
 *   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
 Suspendisse id sem consectetuer libero luctus adipiscing.
+1986\. What a great season.
+*   A list item with a blockquote:
+
+    > This is a blockquote
+    > inside a list item.
