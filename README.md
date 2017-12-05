@@ -10,3 +10,6 @@
 *   Red  //* 或+或-
 *   Green
 *   Blue
+1.  Bird
+1.  McHale
+1.  Parish
