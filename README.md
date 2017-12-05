@@ -49,3 +49,17 @@ _single underscores_
 **double asterisks**
 
 __double underscores__
+
+
+\*this text is surrounded by literal asterisks\*
+
+Use the `printf()` function.
+
+![替代文字](https://www.amcharts.com/wp-content/uploads/2013/12/demo_7392_light.jpg "Optional title")
+
+![Alt text][id]
+[id]: https://www.amcharts.com/wp-content/uploads/2013/12/demo_7392_light.jpg  "Optional title attribute"
+
+<http://example.com/>
+
+<address@example.com>
